@@ -8,5 +8,6 @@ Pri projektu uporabljamo računalniški program Mathematica
 2. Opisal bom graf Bitcoina, zanimivosti z drugimi kovanci, njegovo gibanje v zadnjih 3 letih in poskušal bom opisati njegovo prihodnost, povedal bom tudi nekaj o transakcijah.
 3. Za primerjavo kovancev z Bitcoinom bom izbral Etherum
    
-
+## Povezava do videoposnetka
+https://youtu.be/GvMIHB11tuE
    
