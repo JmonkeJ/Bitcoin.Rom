@@ -5,9 +5,10 @@ Pri projektu uporabljamo računalniški program Mathematica
 ## Načrt za izdelavo projekta:
 1. Pridobivanje podatkov:
    -Podatke sem pridobil iz WolframDataReposetory in sicer z uporabo FinacnialData funkcije
-2. Opisal bom graf Bitcoina, zanimivosti z drugimi kovanci, njegovo gibanje v zadnjih 3 letih in poskušal bom opisati njegovo prihodnost, povedal bom tudi nekaj o transakcijah.
-3. Za primerjavo kovancev z Bitcoinom bom izbral Etherum
+   -Uporabil sem svojo datoteko (EXCEL)
+3. Opisal bom graf Bitcoina, primerjal trg Bitcoina z drugimi kovanci in skušal napovedati prihodnost.
+4. Za primerjavo kovancev z Bitcoinom sem izbral več 9 različnih kovancev (Etherum, Dollar,...)
    
 ## Povezava do videoposnetka
-https://youtu.be/GvMIHB11tuE
+
    
