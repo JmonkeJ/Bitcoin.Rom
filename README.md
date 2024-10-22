@@ -11,4 +11,3 @@ Pri projektu uporabljamo računalniški program Mathematica
    
 ## Povezava do videoposnetka
 
-   
