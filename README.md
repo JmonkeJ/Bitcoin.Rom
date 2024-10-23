@@ -10,4 +10,4 @@ Pri projektu uporabljamo računalniški program Mathematica
 4. Za primerjavo kovancev z Bitcoinom sem izbral več 9 različnih kovancev (Etherum, Dollar,...)
    
 ## Povezava do videoposnetka
-
+https://youtu.be/WMLKhS8GSaM
